@@ -214,7 +214,7 @@ When an image is **scaled up** without interpolation, pixel blocks expand. If we
 This results in a blocky structure, since no new detail is introduced.
 
 ## 3. Visual Example
-Consider a \( 4 \times 4 \) image:
+Consider a 4 * 4 image:
 
 
 **mathematical concept:**
