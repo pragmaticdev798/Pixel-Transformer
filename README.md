@@ -204,7 +204,7 @@ Each new pixel at \( (i, j) \) is computed as:
 where:
 - \( S \) is the sampling factor (block size),
 - \( I'(i, j) \) is the new pixel value,
-- The summation averages the color values in each \( S \times S \) block.
+- The summation averages the color values in each S*S block.
 
 ### 2.3 Upsampling (Pixelation Effect)
 When an image is **scaled up** without interpolation, pixel blocks expand. If we scale by a factor S, each pixel is replaced by an S*S block:
